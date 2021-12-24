@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @000Farid
+- 👀 I’m interested in html/python
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me ... Farid#0001, Discord.
