@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @000Farid
+- 👋 Hi, I’m Farid
 - 👀 I’m interested in html/python
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on nothing
